@@ -1,3 +1,11 @@
+**My Portfolio Website**
+
+Built with Next.js and Tailwind CSS.
+The project is still under development — I’ll deploy it soon!
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
